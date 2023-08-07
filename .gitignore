@@ -1,3 +1,6 @@
+.vs
+dbg
+build
 # Prerequisites
 *.d
 
